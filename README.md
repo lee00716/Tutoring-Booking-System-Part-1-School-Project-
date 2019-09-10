@@ -1,4 +1,4 @@
-# Tutoring Booking System
+# Tutoring Booking System (Part 1)
 
 ### This is the first final project done in CST8288 OOP with Design Patterns Java at Algonquin College.
 
